@@ -32,6 +32,7 @@ dependencies:
     - './wheels/tornado-6.3.3-py3-none-any.whl'
     - './wheels/frozenlist-1.4.0-py3-none-any.whl'
     - './wheels/aiohttp-3.8.5-py3-none-any.whl'
+    - './wheels/jupyterlab_examples_completer-0.1.0-py3-none-any.whl'
     - langchain
     # - './wheels/jupyter_ai_magics-2.3.0-py3-none-any.whl'
     # - './wheels/jupyter_ai-2.3.0-py3-none-any.whl'
