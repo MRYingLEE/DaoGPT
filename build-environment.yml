@@ -13,9 +13,9 @@ dependencies:
   - pydantic
   - idna
   - pip:
-    - jupyterlite==0.2.0rc0
-    - jupyterlite-xeus-python==1.0.0a1
-    - jupyterlite_javascript_kernel==0.2.0rc0
+    - jupyterlite==0.2.0rc1
+    - jupyterlite-xeus-python==1.0.0a3
+    - jupyterlite_javascript_kernel==0.2.0rc1
     - jupyterlite_pyodide_kernel===0.2.0a2
     - ipycanvas
     - numpy
