@@ -18,6 +18,7 @@ dependencies:
     - jupyterlite-xeus-python==1.0.0a3
     - jupyterlite_javascript_kernel==0.2.0rc1
     - jupyterlite_pyodide_kernel===0.2.0a2
+    - jupyter-collaboration==2.0.0alpha4
     - ipycanvas
     - numpy
     - matplotlib
