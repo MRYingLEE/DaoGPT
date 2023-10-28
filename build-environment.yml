@@ -6,19 +6,19 @@ channels:
 dependencies:
   - python===3.11
   - pip
-  - jupyterlab >=4.0.7,<5.0
   - ply
   - pygtrie
   - tenacity
   - pydantic
   - idna
-  - jupyterlab-filesystem-access~=0.6.0
   - pip:
+    - jupyterlab >=4.0.7,<5.0
     - jupyterlite==0.2.0
     - jupyterlite-xeus-python==1.0.0a3
     - jupyterlite_javascript_kernel==0.2.0
     - jupyterlite_pyodide_kernel===0.2.0
     # - jupyter-collaboration==2.0.0alpha4
+    - jupyterlab-filesystem-access~=0.6.0
     - ipycanvas
     - numpy
     - matplotlib
