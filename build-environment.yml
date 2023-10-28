@@ -12,12 +12,12 @@ dependencies:
   - tenacity
   - pydantic
   - idna
-  - jupyterlab-filesystem-access~=0.5.3
+  - jupyterlab-filesystem-access~=0.6.0
   - pip:
     - jupyterlite==0.2.0
     - jupyterlite-xeus-python==1.0.0a3
     - jupyterlite_javascript_kernel==0.2.0
-    - jupyterlite_pyodide_kernel===0.2.0a2
+    - jupyterlite_pyodide_kernel===0.2.0
     # - jupyter-collaboration==2.0.0alpha4
     - ipycanvas
     - numpy
