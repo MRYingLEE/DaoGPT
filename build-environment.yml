@@ -42,6 +42,3 @@ dependencies:
     # - './wheels/yarl-1.9.2-py3-none-any.whl'
     - AzureOpenAI
     - OpenAI
-    - chapyter
-    - jupyter_ai
-    - chapyter
